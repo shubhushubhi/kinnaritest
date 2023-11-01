@@ -1,0 +1,21 @@
+
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(˜’€ºşÿÿÿÿ8ÔÉ¸1
+7
+java:S1220""Move this file to a named package.8ÔÉ¸1
+X
+java:S1854"6Remove this useless assignment to local variable "sc".(ğÛ²¸øÿÿÿÿ8ÔÉ¸1
+`
+java:S1854">Remove this useless assignment to local variable "commission".(¤²º¡üÿÿÿÿ8ÔÉ¸1
+L
+java:S1197"*Move the array designators [] to the type.(ø‹à¸ÿÿÿÿÿ8ÔÉ¸1
+J
+java:S1659"(Declare "commission" on a separate line.(¤²º¡üÿÿÿÿ8ÔÉ¸1
+K
+java:S1481")Remove this unused "sale" local variable.(¤²º¡üÿÿÿÿ8ÔÉ¸1
+Q
+java:S1481"/Remove this unused "commission" local variable.(¤²º¡üÿÿÿÿ8ÔÉ¸1
+F
+java:S1481")Remove this unused "rate" local variable.(âçÍÖ8ÔÉ¸1
+I
+java:S1481"'Remove this unused "sc" local variable.(ğÛ²¸øÿÿÿÿ8ÔÉ¸1
+G	java:S106"+Replace this use of System.out by a logger.(«‹Îõ8ÔÉ¸1
